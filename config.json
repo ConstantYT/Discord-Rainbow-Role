@@ -1,11 +1,10 @@
 {
-	"token": "YOUR LOGIN TOKEN HERE",
+	"token": ""MjYzNzEzNTI1Njk0ODU3MjI2.DEWDYw.G3oTx7oSgCIWHQRK2RkGWATiJCk"",
 	"servers": [
-		"ID 1ST SERVER",
-		"ID 2ND SERVER"
+		"339109521496735747",
 	],
-	"roleName": "THE ROLE NAME YOU WANT TO CHANGE ITS COLOR FROM HERE",
-	"colors": 12,
-	"speed": 60000,
-	"logging": true
+	"roleName": "Rainbow",
+	"colors": 7,
+	"speed": 15000,
+	"logging": false
 }
